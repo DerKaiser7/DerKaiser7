@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerKaiser7
+- 👋 Hi, I’m Abimbola
 - 👀 I’m interested in Data science, Machine Learning, Finance and Business Analytics.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on data science projects, anything python in general.

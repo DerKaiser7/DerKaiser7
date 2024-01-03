@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abimbola
-- 👀 I’m interested in Data science, Machine Learning, Finance and Business Analytics.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on data science projects, anything python in general.
+- 👀 I’m a Data scientist, interests include Machine Learning, AI, Finance, and Business Analytics.
+- 🌱 I’m proficient in Python and Java.
+- 💞️ I’m looking to collaborate on data science projects, anything Python/Java in general.
 - 📫 How to reach me https://www.linkedin.com/in/abimbolafalodu/
 
 <!---
